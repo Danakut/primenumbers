@@ -1,0 +1,10 @@
+### output folders ###
+target
+out
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
